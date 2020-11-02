@@ -109,7 +109,7 @@ This command builds the hello command, producing an executable binary. It then i
 
 * [Bagas Mahier; Co-Author](https://github.com/BagasMahier12a/) - My team for creating this project.
 * [Code::Blocks](http://www.codeblocks.org/home) - The IDE with all the features.
-* [GitHubDesktop](https://desktop.github.com/) - For commite with my team remotely.
+* [GitBash](https://gitforwindows.org/) - For commite with my team remotely.
 
 ## Versioning
 
