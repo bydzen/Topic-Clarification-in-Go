@@ -113,7 +113,7 @@ This command builds the hello command, producing an executable binary. It then i
 
 ## Versioning
 
-We use [GitBash](https://gitforwindows.org/) for versioning.
+We use [GitHubDesktop](https://desktop.github.com/) for versioning.
 
 ## Authors
 
